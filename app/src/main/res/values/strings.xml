@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Project List</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">All Projects</string>
+    <string name="popup_title">Enter Project Details</string>
+    <string name="popup_clientName_hint">Client Name</string>
+    <string name="popup_tenure">Tenure (Days)</string>
+    <string name="popup_saveButton">Save</string>
+    <string name="listRow_project_status">Status:</string>
+    <string name="listRow_clientName">Client Name</string>
+    <string name="popup_totalCost">Project Cost (crores)</string>
+    <string name="popup_cbStatus_text">Project is Active</string>
+    <string name="contentMain_addItem">Add a New Project</string>
+    <string name="menu_details_edit">Edit Project</string>
+    <string name="menu_details_delete">Delete Project</string>
+</resources>
